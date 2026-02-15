@@ -5,7 +5,6 @@ Web and Mobile developer from `Romania`, currently studying Computer Engineering
 
 ---
 
-- 🔭 I’m currently working on **[MCS App](https://github.com/Sergetec/mcs-app)**
 
 - 🌱 I’m currently learning **Flutter**
 
