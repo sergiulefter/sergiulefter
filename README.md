@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sergiu 👋</h1>
 
 <p align="center">
-  Software Engineer — Mobile & Web
+  Software Engineer | Mobile & Web
 </p>
 
 <p align="center">
