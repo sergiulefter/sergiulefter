@@ -5,12 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergiulefter/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://sergiulefter.com">
-    <img src="https://img.shields.io/badge/Portfolio-sergiulefter.com-1F2937?style=flat&logo=safari&logoColor=white" alt="Visit My Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/sergiulefter/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>&nbsp;<a href="https://sergiulefter.com"><img src="https://img.shields.io/badge/Portfolio-sergiulefter.com-1F2937?style=flat&logo=safari&logoColor=white" alt="Visit My Portfolio" /></a>
 </p>
 
 ## 👨‍💻 About Me
